@@ -1,0 +1,63 @@
+body {
+    background-image:url(../img/Rose.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: rgb(113, 117, 109);
+    
+}
+
+h1 {
+    font-family: Tahoma;
+    color: #2dc4c4;
+}
+
+.my_1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 18px;
+    color: red;
+}
+
+.text {
+    padding:50px;
+    margin: 100px;
+    border: 10px solid #c46913;
+
+    border-bottom-style:dashed;
+
+    border-right-width: 15px;
+
+    background-color: #dedd4e;
+    border-radius: 50px;
+}
+
+.second_text {
+    margin-top: 50px;
+}
+
+
+th {
+    text-align:center; 
+    font-size: 30px;
+    padding:0%;
+}
+
+.text_1 {
+    color:#ec7a7a;
+}
+
+.text_2 {
+    color:#f2b8b8
+}
+
+.first_3 {
+    color:#fd27a2;
+}
+
+.second_3 {
+    color:#c392eb;
+}
